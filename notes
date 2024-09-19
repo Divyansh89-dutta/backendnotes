@@ -1,0 +1,13 @@
+task - 
+hume ek route banana hai, jismein ek paga show ho aur waha par ek css use krta hua paga dikhe 
+hum logo ko kaafi saare kaam karan padtha hai express setup krne mein iska matlab har baar jab hum naya project banaayega to har baar fir se utna hi kuchh setup karo, is time ko bacha sakte ho with help of express generator, use express generator and it will also write the basic code for the project 
+-> steps to use express generator
+-> npm i express-generator -g
+-> open cmd move to desktop
+-> create new app :
+-> express appname --view=ejs
+
+-> now use three commands
+-> cd appname 
+-> npm i
+-> open it on vs code 

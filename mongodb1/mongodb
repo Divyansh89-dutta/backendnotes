@@ -1,0 +1,16 @@
+monogodb:-
+In MongoDB, a database is a container that holds collections of documents. Each database can have multiple collections, and each collection contains documents with data.
+MongoDB uses a JSON-like format called BSON (Binary Serialized Object Notation) to store data.
+MongoDB is a NoSQL database, which means it does not use the traditional table-based relational database
+-> chat ka image images file me save hai
+har naye app ka data store hoga storage mein, per usey directly rakne ki jagah ek container mein rakhege, us container mein sirf us app ka data aayega 
+
+ek app ka poora data => db
+ek app mein variety of data hota hai par poora data hota app ka hi hai, par us data ka sub category kehlaata hai collection
+collection matlab ki bola users ka data, ek user pe baat kri to hua document 
+how to setup :-
+1. download mongoDB
+2. install mongoDB
+3. require and setup connection
+4. make schema
+5. create and export 
