@@ -1,0 +1,16 @@
+what is backdend ?
+Ans :-(1) Back-end is the server-side of an application, which is responsible for handling requests, storing data,and performing complex computations. It is the part of the application that users do not directly interact with.
+(2) backend developer wo banda hai jo ki server and db program karta hai 
+
+why backend?
+Ans :-(1) Because it is the part of the application that users do not directly interact with application 
+(2) to make website more usable and purposefult for the audience, to make website dynamic 
+
+why not frontend alone ? 
+with frontend websites are static and they are of not much use 
+frontend is only for user interface and user experience, backend is for data and functionality of the website.
+
+what do we need ?
+nodejs, mongodb, mongoosejs, expressjs
+
+

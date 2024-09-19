@@ -1,0 +1,7 @@
+//  how to export variables 
+var a  = 11;
+var b  = 1213;
+maodule.exports = {first: a, scrond:b };
+// you can require data through this
+var data = require('./module');
+// node js hai khoob saare c++ ka code jo ki liya gaya hai chrome browser ke v8 engine ka code se aur is c++ code jisko liya gaya usey wrap kar diya gaya hai js code se and ye hume allow karte hai ke hum js code likhein aur ys js code accept karega and c++ ka basis per aapko ek server environment bana kar dega, par sirf tab tak jab tak ye code chaleaye  
